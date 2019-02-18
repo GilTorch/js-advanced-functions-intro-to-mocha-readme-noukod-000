@@ -17,3 +17,7 @@ function favoriteIceCream(iceCreamName){
 function shouting(sentence){
   return sentece.toUpperCase();
 }
+
+function roundDown(number){
+  return Math.floor(number);
+}
